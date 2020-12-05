@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Data Frontend</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <h1>Express.js API Example</h1>
+    <form class="main-form" action="index.html" method="post">
+      <div class="form-dropdown" id="institutionsDropdown">
+        <label for="institutions">Institution:</label>
+        <select name="institutions" id="institutions">
+          <option value="loading">Loading</option>
+        </select>
+      </div>
+      <div class="form-dropdown" id="yearsDropdown">
+        <label for="years">Year:</label>
+        <select name="years" id="years">
+          <option value="loading">Loading</option>
+        </select>
+      </div>
+    </form>
+    <div class="result-container">
+      <span class="result-display">Here shows the AJAX result</span>
+      <button type="button" name="clear" id="clear">Clear</button>
+      <a href="#" target="_blank" id="download" download>Download square footage data of [institution] in [year] as JSON.</a>
+    </div>
+    <script src="./app.js" charset="utf-8"></script>
+  </body>
+</html>

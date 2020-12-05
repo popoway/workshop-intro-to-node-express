@@ -1,0 +1,25 @@
+﻿institutions_id,college,type,short_name,abbreviation
+1,City University of New York - Community Colleges,Aggregate,Community Colleges,CUNYCC
+2,City University of New York - Senior Colleges,Aggregate,Senior Colleges,CUNYSR
+3,City University of New York,Aggregate,CUNY,CUNY
+4,CUNY Graduate Center,Senior College,Grad Center,GC
+5,CUNY Administration,Senior College,Administration,ADMIN
+6,School of Professional Studies,Senior College,Professional Studies,SPS
+7,Macaulay Honors College,Senior College,Honors College,MHC
+8,NYC College of Technology,Senior College,City Tech,NYCCT
+9,City College of New York,Senior College,City College,CCNY
+10,Hunter College,Senior College,Hunter,HC
+11,Brooklyn College,Senior College,Brooklyn,BC
+12,Queens College,Senior College,Queens,QC
+13,John Jay College of Criminal Justice,Senior College,John Jay,JJC
+14,College of Staten Island,Senior College,CSI,CSI
+15,York College,Senior College,York,YORK
+16,Lehman College,Senior College,Lehman,LC
+17,Bronx Community College,Community College,Bronx,BCC
+18,Queensborough Community College,Community College,Queensborough,QCC
+19,Kingsborough Community College,Community College,Kingsborough,KBCC
+20,Borough of Manhattan Community College,Community College,BMCC,BMCC
+21,Hostos Community College,Community College,Hostos,HCC
+22,La Guardia Community College,Community College,LaGuardia,LAGCC
+23,Hunter College Campus Schools,Community College,Hunter College Campus Schools,HCCS
+24,Guttman Community College,Community College,Guttman,GCC

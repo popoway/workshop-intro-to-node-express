@@ -1,0 +1,16 @@
+h1, form, .result-container {
+  text-align: center;
+}
+
+.form-dropdown:nth-child(2), .result-container {
+  display: none;
+}
+
+.form-dropdown, .result-container {
+  margin: 20px;
+}
+
+.result-container > button {
+  display: block;
+  margin: 20px auto;
+}
